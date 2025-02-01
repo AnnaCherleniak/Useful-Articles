@@ -4,4 +4,4 @@ https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-
 
 https://habr.com/ru/articles/740026/  --  **Шпаргалка по техникам тест дизайна. Кратко**
 
-https://habr.com/ru/companies/yandex_praktikum/articles/567470/ - **"Хомячки"**
+https://willday.ru/blog/luchshie-telegram-kanaly-i-chaty-dlya-testirovshchikov-QA-inzhenerov/  --  **40 Telegram-каналов & чатов тестировщиков и QA-инженеров**
